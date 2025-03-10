@@ -1,5 +1,6 @@
 tensorflow==2.13.0
 tensorflow-addons==0.21.0
+protobuf<4.0.0
 numpy==1.24.3
 typing-extensions==4.5.0
 streamlit==1.30.0
