@@ -1,2 +1,1 @@
-python3.11
-ffmpeg  # Required for OpenCV video handling
+libgl1
