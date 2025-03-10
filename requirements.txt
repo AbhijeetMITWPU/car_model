@@ -1,7 +1,7 @@
-tensorflow==2.13
-tensorflow-addons==0.21
+tensorflow==2.13.0
+tensorflow-addons==0.21.0
 numpy==1.24.3
 typing-extensions==4.5.0
-streamlit
-opencv-python-headless  # For OpenCV in Streamlit
-pillow
+streamlit==1.30.0
+opencv-python-headless==4.8.0.76
+pillow==10.0.0
