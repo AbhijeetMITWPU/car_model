@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+tensorflow==2.13
+tensorflow-addons==0.21
+numpy==1.24.3
+typing-extensions==4.5.0
